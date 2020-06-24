@@ -1,6 +1,4 @@
-# huangzhengsjtu.github.io
-
-# 课程列表
+# huang zheng
 
 # 参考资料
 
