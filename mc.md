@@ -8,7 +8,7 @@
 
 ### 数论基础
 
-[数论_课程注记](https://huangzhengsjtu.github.io/mc/files/lnmc_numbers.pdf)
+[数论_课程注记](https://github.com/huangzhengsjtu/huangzhengsjtu.github.io/blob/master/files/lnmc_numbers.pdf)
 
 ### 布尔函数
 
